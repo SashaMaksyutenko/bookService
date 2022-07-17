@@ -11,7 +11,7 @@
     "bookService": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7296;http://localhost:5156",
+      "applicationUrl": "http://localhost:57325",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

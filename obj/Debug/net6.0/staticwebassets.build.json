@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NdFfd9vltqx4DCs0u6Qs0yteszMBtl9zcHA7i34dg0s=",
+  "Hash": "PB4qzvo4nWlCyb8+/A5Ve4B4fb+3baldKqTjG4UxA8U=",
   "Source": "bookService",
   "BasePath": "_content/bookService",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/sashamaksyutenko/Desktop/C# projects/web_api/bookService/bookService/obj/Debug/net6.0/scopedcss/projectbundle/bookService.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/sashamaksyutenko/Desktop/C# projects/web_api/bookService/bookService/wwwroot/css/bootswatchTheme.css",
+      "SourceId": "bookService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sashamaksyutenko/Desktop/C# projects/web_api/bookService/bookService/wwwroot/",
+      "BasePath": "_content/bookService",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootswatchTheme.css"
     },
     {
       "Identity": "/Users/sashamaksyutenko/Desktop/C# projects/web_api/bookService/bookService/wwwroot/css/site.css",
