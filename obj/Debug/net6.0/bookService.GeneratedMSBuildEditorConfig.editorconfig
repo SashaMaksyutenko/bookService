@@ -15,6 +15,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = /Users/sashamaksyutenko/Desktop/C# projects/web_api/bookService/bookService
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/sashamaksyutenko/Desktop/C\# projects/web_api/bookService/bookService/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sashamaksyutenko/Desktop/C\# projects/web_api/bookService/bookService/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sashamaksyutenko/Desktop/C\# projects/web_api/bookService/bookService/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/sashamaksyutenko/Desktop/C\# projects/web_api/bookService/bookService/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
